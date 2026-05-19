@@ -41,3 +41,6 @@ postgres:16-alpine
 apache/rocketmq:5.2.0
 
 apacherocketmq/rocketmq-dashboard:latest
+
+# n8n
+docker.n8n.io/n8nio/n8n
