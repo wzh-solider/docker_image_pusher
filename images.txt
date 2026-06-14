@@ -44,3 +44,6 @@ apacherocketmq/rocketmq-dashboard:latest
 
 # n8n
 docker.n8n.io/n8nio/n8n
+
+# jdk21
+eclipse-temurin:21-jre-alpine
